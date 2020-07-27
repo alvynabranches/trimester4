@@ -3,6 +3,7 @@
 1. Creating a simple script, saving it in .m files and executing it from the command prompt.
     - ![Matlab on Windows Machine](docs/1.png)
     - ![Saved the file as first.m](docs/2.png)
+    - ![](docs/3.png)
 2. Creating a script showing implementation of 5 different data types.
     - ![]()
 3. Creating a script showing implementation of 
