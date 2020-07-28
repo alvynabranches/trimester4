@@ -2,4 +2,4 @@
 
 ![FrontierStatus.jpg](docs/FrontierStatus.jpg)
 ![MapOfRomania.jpg](docs/MapOfRomania.jpg)
-![Assignment](assignment.jpg)
+![Assignment](docs/assignment.jpeg)
