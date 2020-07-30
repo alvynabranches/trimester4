@@ -5,10 +5,10 @@
     - ![Saved the file as first.m](docs/2.png)
     - ![Final Output](docs/3.png)
 2. Creating a script showing implementation of 5 different data types.
-    - ![script](assignment.m)
+    - ![script](assignment1.m)
 3. Creating a script showing implementation of 
     - Arithmetic Operators
-        - ![]()
+        - ![script](assignment2.m)
     - Relational Operators
         - ![]()
     - Logical Operators
