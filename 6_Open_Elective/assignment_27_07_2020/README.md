@@ -5,22 +5,22 @@
     - ![Saved the file as first.m](docs/2.png)
     - ![Final Output](docs/3.png)
 2. Creating a script showing implementation of 5 different data types.
-    - [script](assignment1.m)
+    - [my script](assignment1.m)
 3. Creating a script showing implementation of 
     - Arithmetic Operators
-        - [script](assignment2.m)
+        - [my script](assignment2.m)
         - [reference](https://in.mathworks.com/help/matlab/arithmetic-operators.html)
     - Relational Operators
-        - [script](assignment3.m)
+        - [my script](assignment3.m)
         - [reference](https://in.mathworks.com/help/matlab/relational-operators.html)
     - Logical Operators
-        - [script](assignment4.m)
+        - [my script](assignment4.m)
         - [reference](https://in.mathworks.com/help/matlab/logical-operations.html)
     - Bitwise Operators
-        - [script](assignment5.m)
+        - [my script](assignment5.m)
         - [reference](https://in.mathworks.com/help/matlab/bit-wise-operations.html)
     - Set Operators
-        - [script](assignment6.m)
+        - [my script](assignment6.m)
         - [reference](https://in.mathworks.com/help/matlab/set-operations.html)
 
 
