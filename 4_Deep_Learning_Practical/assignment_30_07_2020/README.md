@@ -22,8 +22,13 @@
 |4 Fully Connected Layers Model|Neurons per hidden layer -> [260, 130, 65, 1]               |linear for the last layer and relu for the other layers|Adam     |0.001        |5000  |||||          |        |
 |7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |100   |4670716.5000|1349.6895|3875548.7500|1276.5627|          |        |
 |7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |500   |4784954.5000|1334.6241|4170293.2500|1386.2275|          |        |
-|7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |1000  |||||          |        |
+|7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |1000  |4689069.5000|1345.4857|4030380.2500|1315.6322|          |        |
 |7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |5000  |||||          |        |
-
+<!-- 
+|5 Fully Connected Layers Model|Neurons per hidden layer -> [130, 260, 130, 65, 1]**        |linear for the last layer and relu for the other layers|Adam     |0.001        |100   |||||||
+|5 Fully Connected Layers Model|Neurons per hidden layer -> [130, 260, 130, 65, 1]**        |linear for the last layer and relu for the other layers|Adam     |0.001        |500   |||||||
+|5 Fully Connected Layers Model|Neurons per hidden layer -> [130, 260, 130, 65, 1]**        |linear for the last layer and relu for the other layers|Adam     |0.001        |1000  |||||||
+-->
 
 *Dropout attachment used in the 1st and 3rd hidden layer of probability 0.3. Dropout attachment has been added in the 2nd hidden layer of 0.4 probability. Dropout attachment of 0.2 probability has been added to 4th hidden layer. Dropout attachment of 0.1 probability has been added to the 5th hidden layer.
+**Dropout attachment at 2nd Hidden Layer and 3rd Hidden Layer of probability 0.3, and 0.1 probability for the fourth hidden layer
