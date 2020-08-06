@@ -21,7 +21,7 @@
 |4 Fully Connected Layers Model|Neurons per hidden layer -> [260, 130, 65, 1]               |linear for the last layer and relu for the other layers|Adam     |0.001        |1000  |2275388.0000|1038.3757|5256642.0000|1353.8179|          |        |
 |4 Fully Connected Layers Model|Neurons per hidden layer -> [260, 130, 65, 1]               |linear for the last layer and relu for the other layers|Adam     |0.001        |5000  |||||          |        |
 |7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |100   |4670716.5000|1349.6895|3875548.7500|1276.5627|          |        |
-|7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |500   |||||          |        |
+|7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |500   |4784954.5000|1334.6241|4170293.2500|1386.2275|          |        |
 |7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |1000  |||||          |        |
 |7 Fully Connected Layers Model|Neurons per hidden layer -> [260, 520, 260, 130, 65, 32, 1]*|linear for the last layer and relu for the other layers|Adam     |0.001        |5000  |||||          |        |
 
