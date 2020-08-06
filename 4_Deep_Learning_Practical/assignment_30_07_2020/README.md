@@ -17,6 +17,6 @@
 |3 Fully Connected Layer Model|Neurons per hidden layer -> [130, 65, 1]     |linear for the full network                            |1000  |4374688.5000|1337.5750|4685441.5000|1328.3018|
 |3 Fully Connected Layer Model|Neurons per hidden layer -> [130, 65, 1]     |linear for the full network                            |5000  |4390153.0000|1341.1603|4749785.0000|1319.6615|
 |3 Fully Connected Layer Model|Neurons per hidden layer -> [260, 130, 65, 1]|linear for the last layer and relu for the other layers|100   |3885363.7500|1227.5720|3988240.0000|1347.0333|
-|3 Fully Connected Layer Model|Neurons per hidden layer -> [260, 130, 65, 1]|linear for the last layer and relu for the other layers|500   |||||
-|3 Fully Connected Layer Model|Neurons per hidden layer -> [260, 130, 65, 1]|linear for the last layer and relu for the other layers|1000  |||||
+|3 Fully Connected Layer Model|Neurons per hidden layer -> [260, 130, 65, 1]|linear for the last layer and relu for the other layers|500   |2841460.0000|1119.0825|4414667.5000|1291.5073|
+|3 Fully Connected Layer Model|Neurons per hidden layer -> [260, 130, 65, 1]|linear for the last layer and relu for the other layers|1000  |2275388.0000|1038.3757|5256642.0000|1353.8179|
 |3 Fully Connected Layer Model|Neurons per hidden layer -> [260, 130, 65, 1]|linear for the last layer and relu for the other layers|5000  |||||
